@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: kotlinlistener
+---
+testFramework: spek
+sourceLanguage: kotlin

@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: kotlinlistener
+  server:
+    port: 8086
